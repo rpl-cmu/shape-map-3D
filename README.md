@@ -1,6 +1,6 @@
 # Shape map 3-D: Efficient shape mapping through dense touch and vision
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) &nbsp; <img height="20" src="media/rpl.png" alt="RPL-logo" /> &nbsp;&nbsp; <img height="20" src="media/robotouch.png" alt="Robotouch-logo" />
+[![License: X11](https://img.shields.io/badge/license-X11-yellowgreen)](https://github.com/rpl-cmu/shape-map-3D/blob/master/LICENSE) &nbsp; <img height="20" src="media/rpl.png" alt="RPL-logo" /> &nbsp;&nbsp; <img height="20" src="media/robotouch.png" alt="Robotouch-logo" />
 
 ![cover](/media/cover.jpg) &nbsp;&nbsp;&nbsp; ![shape-map](/media/shape-map.gif)
 
